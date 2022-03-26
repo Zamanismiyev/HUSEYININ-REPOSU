@@ -94,8 +94,7 @@
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "app adın burada yaz. App - name yəni
-",
+      "description": "app adın burada yaz. App - name yəni",
       "value": "",
       "required": false
     },
